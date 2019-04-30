@@ -15,7 +15,7 @@ ____________________________________
 ## Links
 * [Click here to View the Eat-Da-Burger App in action](https://boiling-escarpment-96006.herokuapp.com/)
 * [GitHub Repository Link](https://github.com/missybarringer/burger.git)
-![alt text](http://webwabisabi.com/assets/images/friendFinder.PNG)
+![alt text](http://webwabisabi.com/assets/images/burger.PNG)
 ____________________________________
 ## Overview
 The Eat-Da-Burger app allows a user to input the burger of their choice and then devour it if they choose. Once the new burger is put into the field & the Add burger button is pressed, that burger appears in the list on the left side of the screen (Burgers to Devour section). If the user clicks on the Devour It! button then the burger moves to the right side of the screen (Burgers Devoured section). Or they can devour an existing burger that has yet to be devoured and the same movement will happen.
